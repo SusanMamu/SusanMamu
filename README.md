@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SusanMamu
-- 👀 I’m interested in full stack development with springboot and angular
-- 🌱 I’m currently learning Java fundamentals 
+- 👀 I’m interested in full stack development with Django and angular
+- 🌱 I’m currently learning python and Django fundamentals 
 - 💞️ I’m looking to collaborate on financial technology
 - 📫 How to reach me susan.mamu99@gmail.com 
 - 😄 Pronouns: 
