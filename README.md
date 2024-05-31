@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SusanMamu
-- 👀 I’m interested in full stack development with Django and angular
+- 👀 I’m interested in Data science and software development
 - 🌱 I’m currently learning python and Django fundamentals 
-- 💞️ I’m looking to collaborate on financial technology
+- 💞️ I’m looking to collaborate on Data science projects
 - 📫 How to reach me susan.mamu99@gmail.com 
 - 😄 Pronouns: 
 - ⚡ Fun fact: Tech is sweet
