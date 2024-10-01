@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SusanMamu
 - 👀 I’m interested in Data science and software development
-- 🌱 I’m currently learning python and Django fundamentals 
+- 🌱 I'm good in python and Django framework
 - 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me susan.mamu99@gmail.com 
+- 📫 How to reach me susanmamu364@gmail.com 
 - 😄 Pronouns: 
 - ⚡ Fun fact: Tech is sweet
 
