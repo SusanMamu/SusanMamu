@@ -3,10 +3,14 @@
 Welcome to my Github profile
 
 ---
+
 ## About Me
 Analytics Engineer | Data Scientist
+
 Analytical and results-driven Analytics Engineer with a strong foundation in data science, software engineering, and business intelligence, delivering innovative solutions that drive business growth and operational excellence.
+
 ---
+
 ## Profile Summary
 
 Experienced in translating complex data into actionable insights through advanced analytics, data visualization, and machine learning, enabling organizations to make informed, data-driven decisions and unlock business value.
