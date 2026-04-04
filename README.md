@@ -168,7 +168,5 @@ My portfolio, showcasing my work and contributions, is available on GitHub ([see
 ## 📊 GitHub Stats
 ![Susan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SusanMamu&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SusanMamu&layout=compact)
-
 ---
 Thank you for taking the time to visit my GitHub profile! 🙏🏼
